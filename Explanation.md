@@ -23,7 +23,7 @@ It **sounds convincing**, but it’s completely wrong because flying cars (as we
 ---
 
 ### 🤖 How it relates to AI
-AI hallucination is just like that friend—  
-instead of admitting it doesn’t know, the AI sometimes **guesses** and gives you a **wrong or made-up answer**.  
+AI hallucination is just like that friendI
+Instead of admitting it doesn’t know, the AI sometimes **guesses** and gives you a **wrong or made-up answer**.  
 
 ---
