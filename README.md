@@ -1,5 +1,8 @@
 # LLMs-Hallucination
-“Every day we use AI tools like ChatGPT, Gemini, or other assistants. Most of the time, they give useful answers. But sometimes, when they don’t know the real answer, instead of saying ‘I don’t know’, they actually make something up.
+
+**->Every day we use AI tools like ChatGPT, Gemini, or other assistants. Most of the time, they give useful answers. But sometimes, when they don’t know the real answer, instead of saying ‘I don’t know’, they actually make something up.
+
+
 🧑 Imagine you ask a friend:
 “Hey, do you know who invented the flying car?”
 
