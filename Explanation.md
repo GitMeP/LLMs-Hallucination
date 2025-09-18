@@ -5,7 +5,7 @@
 Every day we use AI tools like **ChatGPT**, **Gemini**, or other assistants.  
 Most of the time, they give useful answers. But sometimes, when they don’t know the real answer, instead of saying *“I don’t know”*, they actually **make something up**.
 
-I know, that sounds crazy—but yeah, it happens! 🤯 
+I know, that sounds crazy but yeah, it happens! 🤯 
 
 ---
 
@@ -23,7 +23,7 @@ It **sounds convincing**, but it’s completely wrong because flying cars (as we
 ---
 
 ### 🤖 How it relates to AI
-AI hallucination is just like that friendI
+AI hallucination is just like that friend
 Instead of admitting it doesn’t know, the AI sometimes **guesses** and gives you a **wrong or made-up answer**.  
 
 ---
